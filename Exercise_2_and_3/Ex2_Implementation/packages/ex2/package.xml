@@ -1,0 +1,11 @@
+<package>
+  <name>ex2</name>
+  <version>0.0.1</version>
+  <description>
+  Odometry task (P2-3)
+  </description>
+  <maintainer email="nozaki.kouta1@gmail.com">Kouta MacQuarrie</maintainer>
+  <license>None</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
